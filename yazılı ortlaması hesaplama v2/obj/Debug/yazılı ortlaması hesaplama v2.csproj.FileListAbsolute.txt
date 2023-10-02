@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\yazılı ortlaması hesaplama v2\yazılı ortlaması hesaplama v2\bin\Debug\yazılı ortlaması hesaplama v2.exe.config
+C:\Users\User\source\repos\yazılı ortlaması hesaplama v2\yazılı ortlaması hesaplama v2\bin\Debug\yazılı ortlaması hesaplama v2.exe
+C:\Users\User\source\repos\yazılı ortlaması hesaplama v2\yazılı ortlaması hesaplama v2\bin\Debug\yazılı ortlaması hesaplama v2.pdb
+C:\Users\User\source\repos\yazılı ortlaması hesaplama v2\yazılı ortlaması hesaplama v2\obj\Debug\yazılı ortlaması hesaplama v2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\yazılı ortlaması hesaplama v2\yazılı ortlaması hesaplama v2\obj\Debug\yazılı ortlaması hesaplama v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\yazılı ortlaması hesaplama v2\yazılı ortlaması hesaplama v2\obj\Debug\yazılı_ortlaması_hesaplama_v2.Form1.resources
+C:\Users\User\source\repos\yazılı ortlaması hesaplama v2\yazılı ortlaması hesaplama v2\obj\Debug\yazılı_ortlaması_hesaplama_v2.Properties.Resources.resources
+C:\Users\User\source\repos\yazılı ortlaması hesaplama v2\yazılı ortlaması hesaplama v2\obj\Debug\yazılı ortlaması hesaplama v2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\yazılı ortlaması hesaplama v2\yazılı ortlaması hesaplama v2\obj\Debug\yazılı ortlaması hesaplama v2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\yazılı ortlaması hesaplama v2\yazılı ortlaması hesaplama v2\obj\Debug\yazılı ortlaması hesaplama v2.exe
+C:\Users\User\source\repos\yazılı ortlaması hesaplama v2\yazılı ortlaması hesaplama v2\obj\Debug\yazılı ortlaması hesaplama v2.pdb
